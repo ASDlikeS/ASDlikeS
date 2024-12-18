@@ -15,4 +15,4 @@ Stay tuned for updates as I share my work on:
 - Vulnerability research :gun:
 Feel free to contribute, raise issues, or ask questions. Let's learn and grow together in the field of web security!
 ## Let's Connect
-You can reach out to me through my [GitHub](https://github.com/pentester-stack) profile or [Discord](https://dropmeafile.com/#09e69c81ff).
+You can reach out to me through my [GitHub](https://github.com/ASDlikeS) profile or [Discord](https://dropmeafile.com/#e9ded5f3a8).
