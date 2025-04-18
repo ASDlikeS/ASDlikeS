@@ -29,6 +29,6 @@ My code is clean, my exploits are cleaner.
 - 💼 [LinkedIn](https://linkedin.com/in/fsociety)  
 - 🐱 [GitHub](https://github.com/ASDlikeS)  
 - 📧 **Email**: asd_bbounty01010@yahoo.com  
-- 🔒 **PGP Key**: [66DEF9C7E711328D187C48CEA12D6DFE7DA08F4D] (Because *of course* I have one.)  
+- 🔒 **PGP Key**: [66DEF9C7E711328D187C48CEA12D6DFE7DA08F4D] (Because *actually* I have one.)  
 
 ---
