@@ -21,7 +21,7 @@ My code is clean, my exploits are cleaner.
 | React, TypeScript, Node.js   | Web App/API Security Testing | Docker, Kubernetes           |  
 | ASP.NET, Nest.js, REST       | Network Recon (OSINT, Nmap)  | Ansible, Terraform           |  
 | PostgreSQL, MongoDB, Prisma  | Burp Suite, SQLi/XSS/SSRF    | AWS/GCP, CI/CD Pipelines     |  
-| WebSockets,Microservices,gRPC| Custom Python/JS Exploits    | Monitoring (Prometheus, ELK) |  
+| WebSockets, Microservices, gRPC| Custom Python/JS/C# Exploits    | Monitoring (Prometheus, ELK) |  
 
 ---
 
