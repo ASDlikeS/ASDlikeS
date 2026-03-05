@@ -5,9 +5,9 @@
 ---
 
 ### 💼 **About Me**  
-I live in the intersection of **building robust systems** and **breaking them ethically**. When I'm not crafting smooth UIs with React or designing scalable backends with Django/Nest.js, I'm probably:  
+I live in the intersection of **building robust systems** and **breaking them ethically**. When I'm not crafting smooth UIs with React or designing scalable backends with ASP.NET/Nest.js, I'm probably:  
 - 🕵️♂️ Penetration testing web apps, APIs, and cloud infra (Docker/K8s/Ansible are my playgrounds).  
-- 🧩 Writing Python/JS automation scripts to make hacking (and life) faster.  
+- 🧩 Writing C#/Python/TS automation scripts to make hacking (and life) faster.  
 - 🔄 Breaking CI/CD pipelines... then fixing them.  
 
 My code is clean, my exploits are cleaner.  
@@ -17,11 +17,11 @@ My code is clean, my exploits are cleaner.
 ### 🛠️ **Skills & Tools**  
 
 | **Development**              | **Pentesting**               | **DevOps**                   |  
-|-------------------------------|-------------------------------|------------------------------|  
+|------------------------------|------------------------------|------------------------------|  
 | React, TypeScript, Node.js   | Web App/API Security Testing | Docker, Kubernetes           |  
-| Django, Nest.js, REST/GraphQL| Network Recon (OSINT, Nmap)  | Ansible, Terraform           |  
-| PostgreSQL, MongoDB          | Burp Suite, SQLi/XSS/SSRF    | AWS/GCP, CI/CD Pipelines     |  
-| WebSockets, Microservices    | Custom Python/JS Exploits    | Monitoring (Prometheus, ELK) |  
+| ASP.NET, Nest.js, REST       | Network Recon (OSINT, Nmap)  | Ansible, Terraform           |  
+| PostgreSQL, MongoDB, Prisma  | Burp Suite, SQLi/XSS/SSRF    | AWS/GCP, CI/CD Pipelines     |  
+| WebSockets,Microservices,gRPC| Custom Python/JS Exploits    | Monitoring (Prometheus, ELK) |  
 
 ---
 
