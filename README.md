@@ -34,7 +34,7 @@ Software Developer · Security Researcher
 - CVE researcher – finding and reporting vulnerabilities
 - Interested in malware analysis, network protocols, and OSINT
 - Daily driver: LainOS (Arch-based, minimal)
-- Editor: VS Code
+- Editor: VS Codium
 
 ---
 
